@@ -1,0 +1,5 @@
+/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/LibreriaTrackerMe/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/LibreriaTrackerMe/bin/Debug/LibreriaTrackerMe.dll.mdb
+/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/LibreriaTrackerMe/bin/Debug/LibreriaTrackerMe.dll
+/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/LibreriaTrackerMe/obj/Debug/LibreriaTrackerMe.dll
+/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/LibreriaTrackerMe/obj/Debug/LibreriaTrackerMe.dll.mdb

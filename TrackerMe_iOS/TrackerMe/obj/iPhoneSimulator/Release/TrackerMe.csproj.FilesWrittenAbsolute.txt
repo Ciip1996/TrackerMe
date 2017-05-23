@@ -1,0 +1,13 @@
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/optimized/Default-568h@2x.png
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/optimized/mapa_icon.png
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/optimized/tracker_icon.png
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/optimized/
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/bin/iPhoneSimulator/Release/TrackerMe.exe.mdb
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/bin/iPhoneSimulator/Release/TrackerMe.exe
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/TrackerMe.exe
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/TrackerMe.exe.mdb
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/optimized/car_icon.png

@@ -1,0 +1,12 @@
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhone/Debug/device-builds/iphone8.1-10.2.1/optimized/Default-568h@2x.png
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhone/Debug/device-builds/iphone8.1-10.2.1/optimized/
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/bin/iPhone/Debug/TrackerMe.exe.mdb
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/bin/iPhone/Debug/TrackerMe.exe
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhone/Debug/TrackerMe.exe
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhone/Debug/TrackerMe.exe.mdb
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhone/Debug/device-builds/iphone8.1-10.2.1/optimized/mapa_icon.png
+/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhone/Debug/device-builds/iphone8.1-10.2.1/optimized/tracker_icon.png
