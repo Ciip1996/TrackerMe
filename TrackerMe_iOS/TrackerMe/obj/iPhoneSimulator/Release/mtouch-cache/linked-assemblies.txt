@@ -1,7 +1,0 @@
-/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/mtouch-cache/Link/TrackerMe.exe
-/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/mtouch-cache/Link/Xamarin.iOS.dll
-/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/mtouch-cache/Link/mscorlib.dll
-/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Xml.dll
-/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Core.dll
-/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.dll
-/Users/IvanPacheco/Projects/TrackerMe/TrackerMe/obj/iPhoneSimulator/Release/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
