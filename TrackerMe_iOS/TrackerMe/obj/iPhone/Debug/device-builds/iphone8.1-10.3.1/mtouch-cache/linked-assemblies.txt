@@ -1,0 +1,5 @@
+/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/TrackerMe/obj/iPhone/Debug/device-builds/iphone8.1-10.3.1/mtouch-cache/Link/TrackerMe.exe
+/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/TrackerMe/obj/iPhone/Debug/device-builds/iphone8.1-10.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/TrackerMe/obj/iPhone/Debug/device-builds/iphone8.1-10.3.1/mtouch-cache/Link/mscorlib.dll
+/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/TrackerMe/obj/iPhone/Debug/device-builds/iphone8.1-10.3.1/mtouch-cache/Link/System.dll
+/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/TrackerMe/obj/iPhone/Debug/device-builds/iphone8.1-10.3.1/mtouch-cache/Link/LibreriaTrackerMe.dll

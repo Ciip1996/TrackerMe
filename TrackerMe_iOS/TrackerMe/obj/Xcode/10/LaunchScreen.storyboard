@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="TrackerMe_ios_LaunchScreen_iphone.png" translatesAutoresizingMaskIntoConstraints="NO" id="zIE-lC-TDq" misplaced="YES">
+                                <rect key="frame" x="21" y="219" width="332" height="229"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="zIE-lC-TDq" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="199" id="92F-5X-Jw1"/>
+                            <constraint firstItem="zIE-lC-TDq" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" constant="5" id="Re0-zA-ePk"/>
+                            <constraint firstItem="zIE-lC-TDq" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="XSv-pK-bDA"/>
+                            <constraint firstItem="zIE-lC-TDq" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="fEe-Rx-FBv"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.6627"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Default-568h.png" width="320" height="568"/>
+        <image name="Imagenes/tracker_icon.png" width="30" height="30"/>
+        <image name="Imagenes/car_icon.png" width="256" height="256"/>
+        <image name="Imagenes/TrackerMe_ios_LaunchScreen_iphone.png" width="450" height="450"/>
+        <image name="tracker_icon.png" width="30" height="30"/>
+        <image name="TrackerMe_ios_LaunchScreen_iphone.png" width="450" height="450"/>
+        <image name="perfil.jpg" width="960" height="960"/>
+        <image name="AppBar/Trackers.png" width="32" height="32"/>
+        <image name="Mis_Trackers/car_icon.png" width="256" height="256"/>
+        <image name="Servicios/lineas.png" width="259" height="194"/>
+        <image name="TrackerMap/MyCar.png" width="32" height="32"/>
+        <image name="TrackerMap/MyLocation.png" width="32" height="32"/>
+        <image name="TrackerMap/TrackerMeHeader.png" width="148" height="20"/>
+        <image name="TableViewBackground.jpg" width="1242" height="2208"/>
+        <image name="TableViewBackgroundRed.jpg" width="1242" height="2208"/>
+        <image name="AppBar/TrackerMap.png" width="25" height="25"/>
+        <image name="AppBar/Mas.png" width="25" height="25"/>
+    </resources>
+</document>

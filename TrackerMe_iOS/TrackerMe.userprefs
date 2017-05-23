@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E76F4D5D-6034-4F6B-9AAB-66EC609D5649}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrackerMe/ViewControllers/TrackersVC.cs">
+    <Files>
+      <File FileName="TrackerMe/ViewControllers/TrackersVC.cs" Line="24" Column="43" />
+      <File FileName="TrackerMe/ViewControllers/MasVC.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TrackerMe__iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7F83355F-9D91-4049-9107-D4F3CD8C7222" />
+  <MultiItemStartupConfigurations />
+</Properties>

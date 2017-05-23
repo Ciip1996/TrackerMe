@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.ibtool.document.errors</key>
+	<dict/>
+	<key>com.apple.ibtool.document.notices</key>
+	<dict/>
+	<key>com.apple.ibtool.document.warnings</key>
+	<dict>
+		<key>TQq-Zm-2DB</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>TQq-Zm-2DB</string>
+				</array>
+				<key>message</key>
+				<string>Push segues are deprecated since iOS 8.0</string>
+				<key>type</key>
+				<string>IBDeprecated</string>
+				<key>type-value</key>
+				<integer>7</integer>
+			</dict>
+		</array>
+		<key>V4v-7T-XuZ</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>V4v-7T-XuZ</string>
+				</array>
+				<key>message</key>
+				<string>Push segues are deprecated since iOS 8.0</string>
+				<key>type</key>
+				<string>IBDeprecated</string>
+				<key>type-value</key>
+				<integer>7</integer>
+			</dict>
+		</array>
+		<key>jbt-6D-zzS</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>jbt-6D-zzS</string>
+				</array>
+				<key>message</key>
+				<string>Push segues are deprecated since iOS 8.0</string>
+				<key>type</key>
+				<string>IBDeprecated</string>
+				<key>type-value</key>
+				<integer>7</integer>
+			</dict>
+		</array>
+		<key>ruc-Ro-mP2</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>ruc-Ro-mP2</string>
+				</array>
+				<key>message</key>
+				<string>Push segues are deprecated since iOS 8.0</string>
+				<key>type</key>
+				<string>IBDeprecated</string>
+				<key>type-value</key>
+				<integer>7</integer>
+			</dict>
+		</array>
+		<key>tRd-SL-iYA</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>tRd-SL-iYA</string>
+				</array>
+				<key>message</key>
+				<string>Modal segues are deprecated since iOS 8.0</string>
+				<key>type</key>
+				<string>IBDeprecated</string>
+				<key>type-value</key>
+				<integer>7</integer>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
