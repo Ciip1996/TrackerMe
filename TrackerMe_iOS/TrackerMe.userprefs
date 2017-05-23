@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{E76F4D5D-6034-4F6B-9AAB-66EC609D5649}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrackerMe/ViewControllers/Trackers_DetailTableVC.cs">
+    <Files>
+      <File FileName="TrackerMe/ViewControllers/Trackers_DetailTableVC.cs" Line="5" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

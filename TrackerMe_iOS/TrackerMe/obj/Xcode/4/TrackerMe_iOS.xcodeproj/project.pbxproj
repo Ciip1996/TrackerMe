@@ -1,0 +1,294 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		436F50A00000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 608C76DE0000000000000000 /* UIKit.framework */; };
+		7D14DBCE0000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7AE901A0000000000000000 /* MapKit.framework */; };
+		F5F2C2920000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6ED0A9560000000000000000 /* Foundation.framework */; };
+		470FA5A00000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6B5F7420000000000000000 /* CoreGraphics.framework */; };
+		48634BF90000000000000000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF8565350000000000000000 /* Assets.xcassets */; };
+		408DA22E0000000000000000 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7AFBB6A0000000000000000 /* LaunchScreen.storyboard */; };
+		CB0DE4EC0000000000000000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 522FFE280000000000000000 /* Main.storyboard */; };
+		7AE7BA970000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 209D3D300000000000000000 /* Info.plist */; };
+		FFF4F8DA0000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 871712160000000000000000 /* Entitlements.plist */; };
+		F86D19660000000000000000 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7F8F32A20000000000000000 /* Default-568h@2x.png */; };
+		82ED5C240000000000000000 /* tracker_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A0F756000000000000000000 /* tracker_icon.png */; };
+		D9CFD97D0000000000000000 /* TrackerMe_ios_LaunchScreen_iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 60F1F2B90000000000000000 /* TrackerMe_ios_LaunchScreen_iphone.png */; };
+		C618A28A0000000000000000 /* perfil.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D3ABBC60000000000000000 /* perfil.jpg */; };
+		8221CFB40000000000000000 /* TableViewBackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 943E8F000000000000000000 /* TableViewBackground.jpg */; };
+		23B772E70000000000000000 /* TableViewBackgroundRed.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAD98C230000000000000000 /* TableViewBackgroundRed.jpg */; };
+		63848FCB0000000000000000 /* Default-568h@2x (copia).png in Resources */ = {isa = PBXBuildFile; fileRef = EAA6A9070000000000000000 /* Default-568h@2x (copia).png */; };
+		5BFCB0570000000000000000 /* PagoViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = E31EC9930000000000000000 /* PagoViewController.h */; };
+		A286203F0000000000000000 /* PagoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 29A8397B0000000000000000 /* PagoViewController.m */; };
+		27935E820000000000000000 /* Trackers_DetailTableVC.h in Sources */ = {isa = PBXBuildFile; fileRef = AEB577BE0000000000000000 /* Trackers_DetailTableVC.h */; };
+		4206E8790000000000000000 /* Trackers_DetailTableVC.m in Sources */ = {isa = PBXBuildFile; fileRef = C92901B50000000000000000 /* Trackers_DetailTableVC.m */; };
+		6ABEA4E80000000000000000 /* MasVC.h in Sources */ = {isa = PBXBuildFile; fileRef = F1E0BE240000000000000000 /* MasVC.h */; };
+		152576180000000000000000 /* MasVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FE1015A30000000000000000 /* MasVC.m */; };
+		18839F9A0000000000000000 /* TrackersVC.h in Sources */ = {isa = PBXBuildFile; fileRef = 9FA5B8D60000000000000000 /* TrackersVC.h */; };
+		981DD9620000000000000000 /* TrackersVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F3FF29E0000000000000000 /* TrackersVC.m */; };
+		D7EAF6460000000000000000 /* TrackerMapVC.h in Sources */ = {isa = PBXBuildFile; fileRef = 5F0D0F820000000000000000 /* TrackerMapVC.h */; };
+		12450EAF0000000000000000 /* TrackerMapVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 996727EB0000000000000000 /* TrackerMapVC.m */; };
+		1E74662E0000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = A5967F6A0000000000000000 /* AppDelegate.h */; };
+		5E4183120000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E5639C4E0000000000000000 /* AppDelegate.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		D96A5DA20000000000000000 /* TrackerMe_iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "TrackerMe_iOS.app"; path = "TrackerMe_iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		608C76DE0000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		E7AE901A0000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		6ED0A9560000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		A6B5F7420000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		CF8565350000000000000000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "Assets.xcassets"; sourceTree = "<group>"; };
+		C7AFBB6A0000000000000000 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "LaunchScreen.storyboard"; path = "LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		522FFE280000000000000000 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Main.storyboard"; path = "Main.storyboard"; sourceTree = "<group>"; };
+		209D3D300000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		871712160000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		7F8F32A20000000000000000 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		A0F756000000000000000000 /* tracker_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "tracker_icon.png"; path = "tracker_icon.png"; sourceTree = "<group>"; };
+		60F1F2B90000000000000000 /* TrackerMe_ios_LaunchScreen_iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "TrackerMe_ios_LaunchScreen_iphone.png"; path = "TrackerMe_ios_LaunchScreen_iphone.png"; sourceTree = "<group>"; };
+		4D3ABBC60000000000000000 /* perfil.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "perfil.jpg"; path = "perfil.jpg"; sourceTree = "<group>"; };
+		943E8F000000000000000000 /* TableViewBackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "TableViewBackground.jpg"; path = "TableViewBackground.jpg"; sourceTree = "<group>"; };
+		AAD98C230000000000000000 /* TableViewBackgroundRed.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "TableViewBackgroundRed.jpg"; path = "TableViewBackgroundRed.jpg"; sourceTree = "<group>"; };
+		EAA6A9070000000000000000 /* Default-568h@2x (copia).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x (copia).png"; path = "Default-568h@2x (copia).png"; sourceTree = "<group>"; };
+		E31EC9930000000000000000 /* PagoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "PagoViewController.h"; path = "PagoViewController.h"; sourceTree = "<group>"; };
+		29A8397B0000000000000000 /* PagoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "PagoViewController.m"; path = "PagoViewController.m"; sourceTree = "<group>"; };
+		AEB577BE0000000000000000 /* Trackers_DetailTableVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "Trackers_DetailTableVC.h"; path = "Trackers_DetailTableVC.h"; sourceTree = "<group>"; };
+		C92901B50000000000000000 /* Trackers_DetailTableVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "Trackers_DetailTableVC.m"; path = "Trackers_DetailTableVC.m"; sourceTree = "<group>"; };
+		F1E0BE240000000000000000 /* MasVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "MasVC.h"; path = "MasVC.h"; sourceTree = "<group>"; };
+		FE1015A30000000000000000 /* MasVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "MasVC.m"; path = "MasVC.m"; sourceTree = "<group>"; };
+		9FA5B8D60000000000000000 /* TrackersVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "TrackersVC.h"; path = "TrackersVC.h"; sourceTree = "<group>"; };
+		1F3FF29E0000000000000000 /* TrackersVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "TrackersVC.m"; path = "TrackersVC.m"; sourceTree = "<group>"; };
+		5F0D0F820000000000000000 /* TrackerMapVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "TrackerMapVC.h"; path = "TrackerMapVC.h"; sourceTree = "<group>"; };
+		996727EB0000000000000000 /* TrackerMapVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "TrackerMapVC.m"; path = "TrackerMapVC.m"; sourceTree = "<group>"; };
+		A5967F6A0000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		E5639C4E0000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		28CF09150000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				436F50A00000000000000000 /* UIKit.framework in Frameworks */,
+				7D14DBCE0000000000000000 /* MapKit.framework in Frameworks */,
+				F5F2C2920000000000000000 /* Foundation.framework in Frameworks */,
+				470FA5A00000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9E4EC6570000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				715A01A00000000000000000 /* TrackerMe_iOS */,
+				7024056D0000000000000000 /* Frameworks */,
+				CC7987410000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CC7987410000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D96A5DA20000000000000000 /* TrackerMe_iOS.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		7024056D0000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				608C76DE0000000000000000 /* UIKit.framework */,
+				E7AE901A0000000000000000 /* MapKit.framework */,
+				6ED0A9560000000000000000 /* Foundation.framework */,
+				A6B5F7420000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		715A01A00000000000000000 /* TrackerMe_iOS */ = {
+			isa = PBXGroup;
+			children = (
+				A5967F6A0000000000000000 /* AppDelegate.h */,
+				CF8565350000000000000000 /* Assets.xcassets */,
+				EAA6A9070000000000000000 /* Default-568h@2x (copia).png */,
+				7F8F32A20000000000000000 /* Default-568h@2x.png */,
+				871712160000000000000000 /* Entitlements.plist */,
+				209D3D300000000000000000 /* Info.plist */,
+				C7AFBB6A0000000000000000 /* LaunchScreen.storyboard */,
+				522FFE280000000000000000 /* Main.storyboard */,
+				F1E0BE240000000000000000 /* MasVC.h */,
+				E31EC9930000000000000000 /* PagoViewController.h */,
+				4D3ABBC60000000000000000 /* perfil.jpg */,
+				943E8F000000000000000000 /* TableViewBackground.jpg */,
+				AAD98C230000000000000000 /* TableViewBackgroundRed.jpg */,
+				A0F756000000000000000000 /* tracker_icon.png */,
+				5F0D0F820000000000000000 /* TrackerMapVC.h */,
+				60F1F2B90000000000000000 /* TrackerMe_ios_LaunchScreen_iphone.png */,
+				AEB577BE0000000000000000 /* Trackers_DetailTableVC.h */,
+				9FA5B8D60000000000000000 /* TrackersVC.h */,
+				9F27F6BD0000000000000000 /* Supporting Files */,
+			);
+			name = "TrackerMe_iOS";
+			sourceTree = "<group>";
+		};
+		9F27F6BD0000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E5639C4E0000000000000000 /* AppDelegate.m */,
+				FE1015A30000000000000000 /* MasVC.m */,
+				29A8397B0000000000000000 /* PagoViewController.m */,
+				996727EB0000000000000000 /* TrackerMapVC.m */,
+				C92901B50000000000000000 /* Trackers_DetailTableVC.m */,
+				1F3FF29E0000000000000000 /* TrackersVC.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8F3F076F0000000000000000 /* TrackerMe_iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CFC45E6D0000000000000000 /* Build configuration list for PBXNativeTarget "TrackerMe_iOS" */;
+			buildPhases = (
+				AA762E940000000000000000 /* Sources */,
+				28CF09150000000000000000 /* Frameworks */,
+				851C9BA70000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "TrackerMe_iOS";
+			productName = "TrackerMe_iOS";
+			productReference = D96A5DA20000000000000000 /* TrackerMe_iOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DCF475CE0000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = B69A22FF0000000000000000 /* Build configuration list for PBXProject "TrackerMe_iOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 9E4EC6570000000000000000;
+			productRefGroup = CC7987410000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8F3F076F0000000000000000 /* TrackerMe_iOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		851C9BA70000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				48634BF90000000000000000 /* Assets.xcassets in Resources */,
+				408DA22E0000000000000000 /* LaunchScreen.storyboard in Resources */,
+				CB0DE4EC0000000000000000 /* Main.storyboard in Resources */,
+				7AE7BA970000000000000000 /* Info.plist in Resources */,
+				FFF4F8DA0000000000000000 /* Entitlements.plist in Resources */,
+				F86D19660000000000000000 /* Default-568h@2x.png in Resources */,
+				82ED5C240000000000000000 /* tracker_icon.png in Resources */,
+				D9CFD97D0000000000000000 /* TrackerMe_ios_LaunchScreen_iphone.png in Resources */,
+				C618A28A0000000000000000 /* perfil.jpg in Resources */,
+				8221CFB40000000000000000 /* TableViewBackground.jpg in Resources */,
+				23B772E70000000000000000 /* TableViewBackgroundRed.jpg in Resources */,
+				63848FCB0000000000000000 /* Default-568h@2x (copia).png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AA762E940000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5BFCB0570000000000000000 /* PagoViewController.h in Sources */,
+				A286203F0000000000000000 /* PagoViewController.m in Sources */,
+				27935E820000000000000000 /* Trackers_DetailTableVC.h in Sources */,
+				4206E8790000000000000000 /* Trackers_DetailTableVC.m in Sources */,
+				6ABEA4E80000000000000000 /* MasVC.h in Sources */,
+				152576180000000000000000 /* MasVC.m in Sources */,
+				18839F9A0000000000000000 /* TrackersVC.h in Sources */,
+				981DD9620000000000000000 /* TrackersVC.m in Sources */,
+				D7EAF6460000000000000000 /* TrackerMapVC.h in Sources */,
+				12450EAF0000000000000000 /* TrackerMapVC.m in Sources */,
+				1E74662E0000000000000000 /* AppDelegate.h in Sources */,
+				5E4183120000000000000000 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CB262B2A0000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		524844660000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "TrackerMe_iOS";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B69A22FF0000000000000000 /* Build configuration list for PBXProject "TrackerMe_iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CB262B2A0000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		CFC45E6D0000000000000000 /* Build configuration list for PBXNativeTarget "TrackerMe_iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				524844660000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DCF475CE0000000000000000 /* Project object */;
+}

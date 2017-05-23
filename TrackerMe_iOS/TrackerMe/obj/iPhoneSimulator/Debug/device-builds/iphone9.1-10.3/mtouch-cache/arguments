@@ -2,9 +2,9 @@
 # [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.8.0.175/lib/mtouch/mtouch.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/10.8.0.175/lib/mtouch/mtouch.exe \
 	--cache \
-	"/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/TrackerMe/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-cache" \
+	"/Users/IvanPacheco/GitHub Proyects/Itlution/TrackerMe/TrackerMe_iOS/TrackerMe/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-cache" \
 	--sim \
-	"/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/TrackerMe/bin/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/TrackerMe.app" \
+	"/Users/IvanPacheco/GitHub Proyects/Itlution/TrackerMe/TrackerMe_iOS/TrackerMe/bin/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/TrackerMe.app" \
 	--executable \
 	TrackerMe \
 	--fastdev \
@@ -19,7 +19,7 @@
 	--http-message-handler=HttpClientHandler \
 	--abi=x86_64 \
 	--symbollist \
-	"/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/TrackerMe/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-symbols.list" \
+	"/Users/IvanPacheco/GitHub Proyects/Itlution/TrackerMe/TrackerMe_iOS/TrackerMe/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-symbols.list" \
 	--dsym=no \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -30,7 +30,7 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	"/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/LibreriaTrackerMe/bin/Debug/LibreriaTrackerMe.dll" \
+	"/Users/IvanPacheco/GitHub Proyects/Itlution/TrackerMe/TrackerMe_iOS/LibreriaTrackerMe/bin/Debug/LibreriaTrackerMe.dll" \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
@@ -296,7 +296,7 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
 	-r \
-	"/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/LibreriaTrackerMe/bin/Debug/LibreriaTrackerMe.dll" \
+	"/Users/IvanPacheco/GitHub Proyects/Itlution/TrackerMe/TrackerMe_iOS/LibreriaTrackerMe/bin/Debug/LibreriaTrackerMe.dll" \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
-	"/Users/IvanPacheco/Desktop/ItlutioN/Sistema Track ME/iOS App/TrackerMe/bin/iPhoneSimulator/Debug/TrackerMe.exe" \
+	"/Users/IvanPacheco/GitHub Proyects/Itlution/TrackerMe/TrackerMe_iOS/TrackerMe/bin/iPhoneSimulator/Debug/TrackerMe.exe" \
